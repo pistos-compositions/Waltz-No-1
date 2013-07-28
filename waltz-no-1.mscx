@@ -3004,9 +3004,9 @@ p, li { white-space: pre-wrap; }
     <Measure number="1">
       <Dynamic>
         <style>12</style>
-        <subtype>mf</subtype>
-        <offset x="-2.91311" y="-10.662"/>
-        <pos x="10.2036" y="4.86181"/>
+        <subtype>mp</subtype>
+        <offset x="-2.91311" y="-10.8932"/>
+        <pos x="10.2036" y="4.63058"/>
         <frame>0</frame>
         </Dynamic>
       <KeySig>
@@ -3069,16 +3069,16 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>51</pitch>
-          <tpc>23</tpc>
-          </Note>
-        <Note>
           <pitch>56</pitch>
           <tpc>22</tpc>
           </Note>
         <Note>
           <pitch>59</pitch>
           <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -3225,7 +3225,6 @@ p, li { white-space: pre-wrap; }
           <tpc>27</tpc>
           </Note>
         <Note>
-          <selected>1</selected>
           <pitch>61</pitch>
           <tpc>21</tpc>
           </Note>
@@ -3361,16 +3360,16 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>51</pitch>
-          <tpc>23</tpc>
-          </Note>
-        <Note>
           <pitch>56</pitch>
           <tpc>22</tpc>
           </Note>
         <Note>
           <pitch>59</pitch>
           <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
           </Note>
         </Chord>
       </Measure>
@@ -3550,16 +3549,15 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Chord>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>55</pitch>
-          <tpc>27</tpc>
-          </Note>
+        <durationType>eighth</durationType>
         <Note>
           <pitch>58</pitch>
           <tpc>24</tpc>
           </Note>
         </Chord>
+      <Rest>
+        <durationType>eighth</durationType>
+        </Rest>
       </Measure>
     <Measure number="15">
       <Chord>
