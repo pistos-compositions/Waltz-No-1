@@ -195,6 +195,7 @@ p, li { white-space: pre-wrap; }
       <keylist>
         <key tick="0" idx="5"/>
         <key tick="23520" idx="4"/>
+        <key tick="46560" idx="5"/>
         </keylist>
       <bracket type="1" span="2"/>
       <barLineSpan>2</barLineSpan>
@@ -206,6 +207,7 @@ p, li { white-space: pre-wrap; }
       <keylist>
         <key tick="0" idx="5"/>
         <key tick="23520" idx="4"/>
+        <key tick="46560" idx="5"/>
         </keylist>
       </Staff>
     <Instrument>
@@ -236,22 +238,445 @@ p, li { white-space: pre-wrap; }
       <o4 x="0" y="-1.33929"/>
       </SlurSegment>
     </Slur>
-  <TextLine>
+  <Slur id="4">
+    <SlurSegment no="0">
+      <offset x="-0.335996" y="1.25999"/>
+      <o4 x="0.335996" y="0.335996"/>
+      </SlurSegment>
+    </Slur>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
     <lineWidth>0.15</lineWidth>
     <lineStyle>1</lineStyle>
     <lineColor r="0" g="0" b="0"/>
     <beginTextPlace>left</beginTextPlace>
     <continueTextPlace>left</continueTextPlace>
-    <tick>24960</tick>
-    <diagonal>1</diagonal>
-    <tick2>25440</tick2>
+    <track>4</track>
+    <tick>480</tick>
+    <tick2>1920</tick2>
     <Segment>
-      <off1 x="-2.10946" y="1.20485"/>
-      <off2 x="-3.44353" y="11.5604"/>
-      <offset x="-2.10946" y="1.20485"/>
-      <pos x="18.9394" y="129.705"/>
+      <off1 x="-0.566315" y="7.19904"/>
+      <off2 x="-5.47619" y="0"/>
+      <offset x="-0.566315" y="7.19904"/>
+      <pos x="28.272" y="50.8687"/>
       </Segment>
-    </TextLine>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>1920</tick>
+    <tick2>3360</tick2>
+    <Segment>
+      <off1 x="-0.56455" y="7.30477"/>
+      <off2 x="-5.95238" y="0"/>
+      <offset x="-0.56455" y="7.30477"/>
+      <pos x="45.0875" y="50.9744"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>3360</tick>
+    <tick2>4800</tick2>
+    <Segment>
+      <off1 x="-1.3562" y="7.15596"/>
+      <off2 x="-3.57143" y="0"/>
+      <offset x="-1.3562" y="7.15596"/>
+      <pos x="59.2244" y="50.8256"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>4800</tick>
+    <tick2>6240</tick2>
+    <Segment>
+      <off1 x="-1.16794" y="7.19904"/>
+      <off2 x="-0.892857" y="0"/>
+      <offset x="-1.16794" y="7.19904"/>
+      <pos x="74.1054" y="50.8687"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>6240</tick>
+    <tick2>7680</tick2>
+    <Segment>
+      <off1 x="-1.05947" y="7.13638"/>
+      <off2 x="-3.125" y="0"/>
+      <offset x="-1.05947" y="7.13638"/>
+      <pos x="84.6708" y="50.806"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>7680</tick>
+    <tick2>9120</tick2>
+    <Segment>
+      <off1 x="-1.4693" y="6.68081"/>
+      <off2 x="-1.04167" y="0"/>
+      <offset x="-1.4693" y="6.68081"/>
+      <pos x="101.04" y="50.3505"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>9120</tick>
+    <tick2>10560</tick2>
+    <Segment>
+      <off1 x="-1.67083" y="7.93974"/>
+      <off2 x="-11.4175" y="0"/>
+      <offset x="-1.67083" y="7.93974"/>
+      <pos x="17.8554" y="83.3862"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>9600</tick>
+    <tick2>10560</tick2>
+    <Segment>
+      <off1 x="-0.701484" y="7.90284"/>
+      <off2 x="-6.69643" y="0"/>
+      <offset x="-0.701484" y="7.90284"/>
+      <pos x="24.3662" y="83.3493"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>10560</tick>
+    <tick2>12000</tick2>
+    <Segment>
+      <off1 x="-1.01564" y="7.52203"/>
+      <off2 x="-12.3302" y="0"/>
+      <offset x="-1.01564" y="7.52203"/>
+      <pos x="36.4951" y="82.9685"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>11520</tick>
+    <tick2>12000</tick2>
+    <Segment>
+      <off1 x="0.585316" y="7.29487"/>
+      <off2 x="-8.12223" y="0"/>
+      <offset x="0.585316" y="7.29487"/>
+      <pos x="50.5501" y="82.7413"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>12000</tick>
+    <tick2>13440</tick2>
+    <Segment>
+      <off1 x="-1.56977" y="7.23032"/>
+      <off2 x="-5.40179" y="0"/>
+      <offset x="-1.56977" y="7.23032"/>
+      <pos x="61.2161" y="82.6767"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>13440</tick>
+    <tick2>14880</tick2>
+    <Segment>
+      <off1 x="-0.99711" y="6.90137"/>
+      <off2 x="-4.74702" y="0"/>
+      <offset x="-0.99711" y="6.90137"/>
+      <pos x="80.5074" y="82.3478"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>14880</tick>
+    <tick2>16320</tick2>
+    <Segment>
+      <off1 x="-1.81311" y="6.57138"/>
+      <off2 x="-1.6369" y="0"/>
+      <offset x="-1.81311" y="6.57138"/>
+      <pos x="97.075" y="82.0178"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>16320</tick>
+    <tick2>17760</tick2>
+    <Segment>
+      <off1 x="-1.86528" y="9.33694"/>
+      <off2 x="-1.47321" y="0"/>
+      <offset x="-1.86528" y="9.33694"/>
+      <pos x="17.6609" y="116.56"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>17760</tick>
+    <tick2>19200</tick2>
+    <Segment>
+      <off1 x="-1.05506" y="9.01339"/>
+      <off2 x="-11.0003" y="0"/>
+      <offset x="-1.05506" y="9.01339"/>
+      <pos x="35.0471" y="116.237"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>19680</tick>
+    <tick2>20640</tick2>
+    <Segment>
+      <off1 x="-4.4102" y="7.71053"/>
+      <off2 x="-6.06916" y="0"/>
+      <offset x="-4.4102" y="7.71053"/>
+      <pos x="59.9635" y="114.934"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>20640</tick>
+    <tick2>22080</tick2>
+    <Segment>
+      <off1 x="1.97564" y="7.40376"/>
+      <off2 x="-17.5911" y="0"/>
+      <offset x="1.97564" y="7.40376"/>
+      <pos x="84.2477" y="114.627"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>21600</tick>
+    <tick2>22080</tick2>
+    <Segment>
+      <off1 x="-1.32054" y="7.09698"/>
+      <off2 x="-3.03458" y="0"/>
+      <offset x="-1.32054" y="7.09698"/>
+      <pos x="100.794" y="114.32"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Pedal>
+    <endHookHeight>-1.5</endHookHeight>
+    <lineWidth>0.15</lineWidth>
+    <lineStyle>1</lineStyle>
+    <lineColor r="0" g="0" b="0"/>
+    <beginTextPlace>left</beginTextPlace>
+    <continueTextPlace>left</continueTextPlace>
+    <track>4</track>
+    <tick>22080</tick>
+    <tick2>23520</tick2>
+    <Segment>
+      <off1 x="0.269096" y="6.83367"/>
+      <off2 x="-18.3439" y="0"/>
+      <offset x="0.269096" y="6.83367"/>
+      <pos x="19.7953" y="145.834"/>
+      </Segment>
+    <beginSymbol>197</beginSymbol>
+    <beginSymbolOffset x="0" y="0"/>
+    </Pedal>
+  <Slur id="5">
+    <tick>0</tick>
+    </Slur>
+  <Slur id="6">
+    </Slur>
+  <Slur id="7">
+    <SlurSegment no="0">
+      <offset x="-0.461995" y="0.277197"/>
+      <o1 x="0.461995" y="-1.20119"/>
+      <o4 x="-0.184798" y="0.831591"/>
+      </SlurSegment>
+    <up>1</up>
+    </Slur>
+  <Slur id="8">
+    <up>1</up>
+    </Slur>
+  <Slur id="9">
+    </Slur>
+  <Slur id="10">
+    <SlurSegment no="0">
+      <o4 x="-0.739192" y="1.84798"/>
+      </SlurSegment>
+    <up>1</up>
+    </Slur>
+  <Slur id="11">
+    <up>1</up>
+    </Slur>
+  <Slur id="12">
+    <up>1</up>
+    </Slur>
+  <HairPin>
+    <tick>6240</tick>
+    <tick2>6480</tick2>
+    <Segment>
+      <off1 x="0.101639" y="-0.91475"/>
+      <off2 x="11.0786" y="0"/>
+      <offset x="0.101639" y="-0.91475"/>
+      <pos x="85.832" y="32.2549"/>
+      </Segment>
+    </HairPin>
+  <HairPin>
+    <subtype>1</subtype>
+    <tick>9120</tick>
+    <tick2>9360</tick2>
+    <Segment>
+      <off1 x="0.101639" y="-1.11803"/>
+      <off2 x="28.2556" y="0"/>
+      <offset x="0.101639" y="-1.11803"/>
+      <pos x="19.6278" y="63.8284"/>
+      </Segment>
+    </HairPin>
+  <HairPin>
+    <subtype>1</subtype>
+    <tick>20160</tick>
+    <tick2>20320</tick2>
+    <Segment>
+      <off1 x="0.30506" y="-1.42262"/>
+      <off2 x="4.06556" y="0"/>
+      <offset x="0.30506" y="-1.42262"/>
+      <pos x="71.9812" y="95.3006"/>
+      </Segment>
+    </HairPin>
+  <HairPin>
+    <tick>21280</tick>
+    <tick2>21440</tick2>
+    <Segment>
+      <off1 x="0.406556" y="0"/>
+      <off2 x="3.35408" y="0"/>
+      <offset x="0.406556" y="0"/>
+      <pos x="94.1862" y="96.7232"/>
+      </Segment>
+    </HairPin>
   <Staff id="1">
     <VBox>
       <height>10</height>
@@ -322,6 +747,12 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Times New Roman'; font-size:12pt;">Moderato</span></p></td></tr></table></body></html>
           </html-data>
         </Tempo>
+      <Dynamic>
+        <style>12</style>
+        <subtype>p</subtype>
+        <offset x="-0.538664" y="-0.517439"/>
+        <pos x="12.578" y="4.50637"/>
+        </Dynamic>
       <KeySig>
         <subtype>5</subtype>
         <KeySym>
@@ -439,6 +870,7 @@ p, li { white-space: pre-wrap; }
     <Measure number="2">
       <Chord>
         <durationType>half</durationType>
+        <Slur type="start" number="7"/>
         <Note>
           <pitch>70</pitch>
           <tpc>24</tpc>
@@ -449,6 +881,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <dots>1</dots>
         <durationType>eighth</durationType>
+        <Slur type="stop" number="7"/>
         <Beam>1</Beam>
         <Note>
           <pitch>68</pitch>
@@ -565,6 +998,7 @@ p, li { white-space: pre-wrap; }
     <Measure number="4">
       <Chord>
         <durationType>half</durationType>
+        <Slur type="start" number="8"/>
         <Note>
           <pitch>70</pitch>
           <tpc>24</tpc>
@@ -572,6 +1006,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>quarter</durationType>
+        <Slur type="stop" number="8"/>
         <Note>
           <pitch>68</pitch>
           <tpc>22</tpc>
@@ -691,6 +1126,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="7">
+      <stretch>1.1</stretch>
       <Text>
         <style>17</style>
         <subtype>MeasureNumber</subtype>
@@ -699,6 +1135,7 @@ p, li { white-space: pre-wrap; }
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
+        <Slur type="start" number="9"/>
         <Beam>6</Beam>
         <Note>
           <pitch>66</pitch>
@@ -707,6 +1144,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
+        <Slur type="stop" number="9"/>
         <Beam>6</Beam>
         <Note>
           <pitch>64</pitch>
@@ -774,11 +1212,12 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="8">
+      <stretch>1.7</stretch>
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
-        <offset x="2.67857" y="9.97024"/>
-        <pos x="3.87857" y="5.97024"/>
+        <offset x="2.37365" y="11.0883"/>
+        <pos x="3.57365" y="7.08827"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -800,7 +1239,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Chord>
-        <trailingSpace>0.5</trailingSpace>
+        <trailingSpace>3</trailingSpace>
         <durationType>eighth</durationType>
         <Note>
           <pitch>70</pitch>
@@ -851,6 +1290,22 @@ p, li { white-space: pre-wrap; }
 <tr>
 <td style="border: none;">
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">a tempo</span></p></td></tr></table></body></html>
+          </html-data>
+        </StaffText>
+      <StaffText>
+        <style>23</style>
+        <subtype>Staff</subtype>
+        <offset x="3.76064" y="8.84258"/>
+        <pos x="6.91267" y="4.84258"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10pt; font-weight:400; font-style:italic;">
+<table style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
+<tr>
+<td style="border: none;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">cresc.   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -</p></td></tr></table></body></html>
           </html-data>
         </StaffText>
       <Tuplet id="3">
@@ -931,6 +1386,7 @@ p, li { white-space: pre-wrap; }
     <Measure number="10">
       <Chord>
         <durationType>half</durationType>
+        <Slur type="start" number="10"/>
         <Note>
           <pitch>70</pitch>
           <tpc>24</tpc>
@@ -941,6 +1397,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <dots>1</dots>
         <durationType>eighth</durationType>
+        <Slur type="stop" number="10"/>
         <Beam>10</Beam>
         <Note>
           <pitch>68</pitch>
@@ -1033,22 +1490,6 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="12">
-      <Chord>
-        <durationType>half</durationType>
-        <Note>
-          <pitch>70</pitch>
-          <tpc>24</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>68</pitch>
-          <tpc>22</tpc>
-          </Note>
-        </Chord>
-      </Measure>
-    <Measure number="13">
       <Text>
         <style>17</style>
         <subtype>MeasureNumber</subtype>
@@ -1056,8 +1497,39 @@ p, li { white-space: pre-wrap; }
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
+        <offset x="-0.101639" y="9.24914"/>
+        <pos x="10.4317" y="5.24914"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">-   -   -   -   -   -   -</p></body></html>
+          </html-data>
+        </StaffText>
+      <Chord>
+        <durationType>half</durationType>
+        <Slur type="start" number="11"/>
+        <Note>
+          <pitch>70</pitch>
+          <tpc>24</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Slur type="stop" number="11"/>
+        <Note>
+          <pitch>68</pitch>
+          <tpc>22</tpc>
+          </Note>
+        </Chord>
+      </Measure>
+    <Measure number="13">
+      <StaffText>
+        <style>23</style>
+        <subtype>Staff</subtype>
         <offset x="-0.203278" y="0.203278"/>
-        <pos x="15.8139" y="-3.79672"/>
+        <pos x="9.96362" y="-3.79672"/>
         <tick>18480</tick>
         <frame>0</frame>
         <html-data>
@@ -1070,6 +1542,14 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Liberation Serif'; font-size:10pt; font-style:italic;">tempo rubato</span></p></td></tr></table></body></html>
           </html-data>
         </StaffText>
+      <Dynamic>
+        <style>12</style>
+        <subtype>f</subtype>
+        <offset x="-0.176587" y="-0.0112707"/>
+        <pos x="1.57341" y="5.01254"/>
+        <tick>17760</tick>
+        <frame>0</frame>
+        </Dynamic>
       <Tuplet id="5">
         <tick>18720</tick>
         <numberType>0</numberType>
@@ -1195,6 +1675,7 @@ p, li { white-space: pre-wrap; }
         <tick>19200</tick>
         <dots>1</dots>
         <durationType>quarter</durationType>
+        <Slur type="start" number="12"/>
         <Note>
           <pitch>70</pitch>
           <tpc>24</tpc>
@@ -1202,6 +1683,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
+        <Slur type="stop" number="12"/>
         <Note>
           <pitch>68</pitch>
           <tpc>22</tpc>
@@ -1238,6 +1720,13 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="15">
+      <Dynamic>
+        <style>12</style>
+        <subtype>p</subtype>
+        <offset x="0.331508" y="-0.150291"/>
+        <pos x="26.7122" y="4.87352"/>
+        <tick>21840</tick>
+        </Dynamic>
       <Tuplet id="7">
         <tick>21120</tick>
         <numberType>0</numberType>
@@ -1296,20 +1785,18 @@ p, li { white-space: pre-wrap; }
           <tpc>24</tpc>
           </Note>
         </Chord>
-      <Beam id="15">
-        </Beam>
       <Chord>
-        <dots>1</dots>
         <durationType>eighth</durationType>
-        <Beam>15</Beam>
         <Note>
           <pitch>67</pitch>
           <tpc>27</tpc>
           </Note>
         </Chord>
+      <Rest>
+        <durationType>16th</durationType>
+        </Rest>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>15</Beam>
         <Note>
           <pitch>55</pitch>
           <tpc>27</tpc>
@@ -1317,6 +1804,11 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="16">
+      <stretch>1.9</stretch>
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Chord>
         <durationType>half</durationType>
         <Note>
@@ -1324,19 +1816,19 @@ p, li { white-space: pre-wrap; }
           <tpc>22</tpc>
           </Note>
         </Chord>
-      <Beam id="16">
+      <Beam id="15">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>16</Beam>
+        <Beam>15</Beam>
         <Note>
-          <pitch>56</pitch>
-          <tpc>22</tpc>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>16</Beam>
+        <Beam>15</Beam>
         <Note>
           <pitch>57</pitch>
           <tpc>17</tpc>
@@ -1369,11 +1861,11 @@ p, li { white-space: pre-wrap; }
         <showCourtesySig>1</showCourtesySig>
         <showNaturals>1</showNaturals>
         </KeySig>
-      <Beam id="17">
+      <Beam id="16">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>17</Beam>
+        <Beam>16</Beam>
         <Note>
           <pitch>56</pitch>
           <tpc>22</tpc>
@@ -1381,10 +1873,28 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>17</Beam>
+        <Beam>16</Beam>
         <Note>
           <pitch>59</pitch>
           <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Beam id="17">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>17</Beam>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>17</Beam>
+        <Note>
+          <pitch>68</pitch>
+          <tpc>22</tpc>
           </Note>
         </Chord>
       <Beam id="18">
@@ -1393,31 +1903,13 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>18</Beam>
         <Note>
-          <pitch>64</pitch>
-          <tpc>18</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>18</Beam>
-        <Note>
-          <pitch>68</pitch>
-          <tpc>22</tpc>
-          </Note>
-        </Chord>
-      <Beam id="19">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>19</Beam>
-        <Note>
           <pitch>71</pitch>
           <tpc>19</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>19</Beam>
+        <Beam>18</Beam>
         <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
@@ -1425,15 +1917,12 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="18">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
-      <Beam id="20">
+      <stretch>1.3</stretch>
+      <Beam id="19">
         </Beam>
       <Chord>
         <durationType>16th</durationType>
-        <Beam>20</Beam>
+        <Beam>19</Beam>
         <grace16/>
         <StemDirection>up</StemDirection>
         <Note>
@@ -1444,7 +1933,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <tick>24960</tick>
         <durationType>16th</durationType>
-        <Beam>20</Beam>
+        <Beam>19</Beam>
         <grace16/>
         <StemDirection>up</StemDirection>
         <Note>
@@ -1460,11 +1949,11 @@ p, li { white-space: pre-wrap; }
           <tpc>20</tpc>
           </Note>
         </Chord>
-      <Beam id="21">
+      <Beam id="20">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>21</Beam>
+        <Beam>20</Beam>
         <Note>
           <pitch>76</pitch>
           <tpc>18</tpc>
@@ -1472,10 +1961,67 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>21</Beam>
+        <Beam>20</Beam>
         <Note>
           <pitch>71</pitch>
           <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Beam id="21">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>21</Beam>
+        <Note>
+          <pitch>68</pitch>
+          <tpc>22</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>21</Beam>
+        <Note>
+          <pitch>69</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <track>1</track>
+        <tick>24960</tick>
+        <durationType>quarter</durationType>
+        <Note>
+          <offset x="-2.7" y="0"/>
+          <pos x="-2.7" y="2"/>
+          <track>1</track>
+          <pitch>71</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      </Measure>
+    <Measure number="19">
+      <Chord>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Slur type="start" number="5"/>
+        <Note>
+          <pitch>73</pitch>
+          <tpc>21</tpc>
+          </Note>
+        <Note>
+          <pitch>81</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Slur type="stop" number="5"/>
+        <Note>
+          <pitch>71</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>80</pitch>
+          <tpc>22</tpc>
           </Note>
         </Chord>
       <Beam id="22">
@@ -1497,20 +2043,15 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       </Measure>
-    <Measure number="19">
+    <Measure number="20">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Chord>
+        <dots>1</dots>
         <durationType>quarter</durationType>
-        <Note>
-          <pitch>73</pitch>
-          <tpc>21</tpc>
-          </Note>
-        <Note>
-          <pitch>81</pitch>
-          <tpc>17</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>quarter</durationType>
+        <Slur type="start" number="6"/>
         <Note>
           <pitch>71</pitch>
           <tpc>19</tpc>
@@ -1518,6 +2059,18 @@ p, li { white-space: pre-wrap; }
         <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Slur type="stop" number="6"/>
+        <Note>
+          <pitch>69</pitch>
+          <tpc>17</tpc>
+          </Note>
+        <Note>
+          <pitch>78</pitch>
+          <tpc>20</tpc>
           </Note>
         </Chord>
       <Beam id="23">
@@ -1526,55 +2079,13 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>23</Beam>
         <Note>
-          <pitch>68</pitch>
-          <tpc>22</tpc>
+          <pitch>78</pitch>
+          <tpc>20</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
         <Beam>23</Beam>
-        <Note>
-          <pitch>69</pitch>
-          <tpc>17</tpc>
-          </Note>
-        </Chord>
-      </Measure>
-    <Measure number="20">
-      <Chord>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>71</pitch>
-          <tpc>19</tpc>
-          </Note>
-        <Note>
-          <pitch>80</pitch>
-          <tpc>22</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>quarter</durationType>
-        <Note>
-          <pitch>69</pitch>
-          <tpc>17</tpc>
-          </Note>
-        <Note>
-          <pitch>78</pitch>
-          <tpc>20</tpc>
-          </Note>
-        </Chord>
-      <Beam id="24">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>24</Beam>
-        <Note>
-          <pitch>78</pitch>
-          <tpc>20</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>24</Beam>
         <Note>
           <pitch>76</pitch>
           <tpc>18</tpc>
@@ -1582,11 +2093,11 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="21">
-      <Beam id="25">
+      <Beam id="24">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>25</Beam>
+        <Beam>24</Beam>
         <Note>
           <pitch>75</pitch>
           <tpc>23</tpc>
@@ -1594,10 +2105,28 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>25</Beam>
+        <Beam>24</Beam>
         <Note>
           <pitch>78</pitch>
           <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Beam id="25">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>25</Beam>
+        <Note>
+          <pitch>81</pitch>
+          <tpc>17</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>25</Beam>
+        <Note>
+          <pitch>83</pitch>
+          <tpc>19</tpc>
           </Note>
         </Chord>
       <Beam id="26">
@@ -1606,31 +2135,13 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>26</Beam>
         <Note>
-          <pitch>81</pitch>
-          <tpc>17</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>26</Beam>
-        <Note>
-          <pitch>83</pitch>
-          <tpc>19</tpc>
-          </Note>
-        </Chord>
-      <Beam id="27">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>27</Beam>
-        <Note>
           <pitch>87</pitch>
           <tpc>23</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>27</Beam>
+        <Beam>26</Beam>
         <Note>
           <pitch>90</pitch>
           <tpc>20</tpc>
@@ -1656,12 +2167,12 @@ p, li { white-space: pre-wrap; }
             </html-data>
           </Number>
         </Tuplet>
-      <Beam id="28">
+      <Beam id="27">
         </Beam>
       <Chord>
         <Tuplet>8</Tuplet>
         <durationType>eighth</durationType>
-        <Beam>28</Beam>
+        <Beam>27</Beam>
         <Note>
           <pitch>90</pitch>
           <tpc>20</tpc>
@@ -1670,7 +2181,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <Tuplet>8</Tuplet>
         <durationType>eighth</durationType>
-        <Beam>28</Beam>
+        <Beam>27</Beam>
         <Note>
           <pitch>92</pitch>
           <tpc>22</tpc>
@@ -1679,7 +2190,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <Tuplet>8</Tuplet>
         <durationType>eighth</durationType>
-        <Beam>28</Beam>
+        <Beam>27</Beam>
         <Note>
           <pitch>90</pitch>
           <tpc>20</tpc>
@@ -1692,11 +2203,11 @@ p, li { white-space: pre-wrap; }
           <tpc>18</tpc>
           </Note>
         </Chord>
-      <Beam id="29">
+      <Beam id="28">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>29</Beam>
+        <Beam>28</Beam>
         <Note>
           <pitch>82</pitch>
           <tpc>24</tpc>
@@ -1704,7 +2215,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>29</Beam>
+        <Beam>28</Beam>
         <Note>
           <pitch>83</pitch>
           <tpc>19</tpc>
@@ -1731,11 +2242,11 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="23">
-      <Beam id="30">
+      <Beam id="29">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>30</Beam>
+        <Beam>29</Beam>
         <Note>
           <pitch>92</pitch>
           <tpc>22</tpc>
@@ -1743,10 +2254,28 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>30</Beam>
+        <Beam>29</Beam>
         <Note>
           <pitch>90</pitch>
           <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Beam id="30">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>30</Beam>
+        <Note>
+          <pitch>88</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>30</Beam>
+        <Note>
+          <pitch>85</pitch>
+          <tpc>21</tpc>
           </Note>
         </Chord>
       <Beam id="31">
@@ -1755,31 +2284,13 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>31</Beam>
         <Note>
-          <pitch>88</pitch>
-          <tpc>18</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>31</Beam>
-        <Note>
-          <pitch>85</pitch>
-          <tpc>21</tpc>
-          </Note>
-        </Chord>
-      <Beam id="32">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>32</Beam>
-        <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>32</Beam>
+        <Beam>31</Beam>
         <Note>
           <pitch>82</pitch>
           <tpc>24</tpc>
@@ -1797,26 +2308,18 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="24">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Chord>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>half</durationType>
         <Note>
           <pitch>83</pitch>
           <tpc>19</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <durationType>eighth</durationType>
-        </Rest>
-      <Beam id="33">
+      <Beam id="32">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>33</Beam>
+        <Beam>32</Beam>
         <Note>
           <pitch>83</pitch>
           <tpc>19</tpc>
@@ -1824,7 +2327,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>33</Beam>
+        <Beam>32</Beam>
         <Note>
           <pitch>82</pitch>
           <tpc>24</tpc>
@@ -1833,18 +2336,13 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <track>1</track>
         <tick>33600</tick>
-        <dots>1</dots>
-        <durationType>quarter</durationType>
+        <durationType>half</durationType>
         <Note>
           <track>1</track>
           <pitch>75</pitch>
           <tpc>23</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <track>1</track>
-        <durationType>eighth</durationType>
-        </Rest>
       <Rest>
         <track>1</track>
         <durationType>quarter</durationType>
@@ -1884,19 +2382,28 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Chord>
-        <durationType>eighth</durationType>
+        <durationType>quarter</durationType>
         <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <durationType>eighth</durationType>
-        </Rest>
       </Measure>
     <Measure number="26">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Chord>
         <durationType>eighth</durationType>
+        <Note>
+          <pitch>71</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>23</tpc>
+          </Note>
         <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
@@ -1915,15 +2422,20 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
+          <pitch>71</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
           <pitch>78</pitch>
           <tpc>20</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <durationType>eighth</durationType>
-        </Rest>
       <Chord>
-        <durationType>eighth</durationType>
+        <durationType>quarter</durationType>
         <Note>
           <pitch>83</pitch>
           <tpc>19</tpc>
@@ -1949,12 +2461,12 @@ p, li { white-space: pre-wrap; }
             </html-data>
           </Number>
         </Tuplet>
-      <Beam id="34">
+      <Beam id="33">
         </Beam>
       <Chord>
         <Tuplet>9</Tuplet>
         <durationType>eighth</durationType>
-        <Beam>34</Beam>
+        <Beam>33</Beam>
         <Note>
           <pitch>82</pitch>
           <tpc>24</tpc>
@@ -1963,7 +2475,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <Tuplet>9</Tuplet>
         <durationType>eighth</durationType>
-        <Beam>34</Beam>
+        <Beam>33</Beam>
         <Note>
           <pitch>73</pitch>
           <tpc>21</tpc>
@@ -1976,7 +2488,7 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <Tuplet>9</Tuplet>
         <durationType>eighth</durationType>
-        <Beam>34</Beam>
+        <Beam>33</Beam>
         <Note>
           <pitch>82</pitch>
           <tpc>24</tpc>
@@ -2008,6 +2520,14 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>eighth</durationType>
         <Note>
+          <pitch>71</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
           </Note>
@@ -2015,11 +2535,11 @@ p, li { white-space: pre-wrap; }
       <Rest>
         <durationType>16th</durationType>
         </Rest>
-      <Beam id="35">
+      <Beam id="34">
         </Beam>
       <Chord>
         <durationType>32nd</durationType>
-        <Beam>35</Beam>
+        <Beam>34</Beam>
         <Note>
           <pitch>82</pitch>
           <tpc>24</tpc>
@@ -2027,7 +2547,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>32nd</durationType>
-        <Beam>35</Beam>
+        <Beam>34</Beam>
         <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
@@ -2036,15 +2556,23 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
+          <pitch>71</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
           <pitch>78</pitch>
           <tpc>20</tpc>
           </Note>
         </Chord>
-      <Beam id="36">
+      <Beam id="35">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>36</Beam>
+        <Beam>35</Beam>
         <Note>
           <pitch>75</pitch>
           <tpc>23</tpc>
@@ -2052,7 +2580,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>36</Beam>
+        <Beam>35</Beam>
         <Note>
           <pitch>76</pitch>
           <tpc>18</tpc>
@@ -2060,11 +2588,11 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="29">
-      <Beam id="37">
+      <Beam id="36">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>37</Beam>
+        <Beam>36</Beam>
         <Note>
           <pitch>78</pitch>
           <tpc>20</tpc>
@@ -2072,10 +2600,28 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>37</Beam>
+        <Beam>36</Beam>
         <Note>
           <pitch>68</pitch>
           <tpc>22</tpc>
+          </Note>
+        </Chord>
+      <Beam id="37">
+        </Beam>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>37</Beam>
+        <Note>
+          <pitch>72</pitch>
+          <tpc>26</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>eighth</durationType>
+        <Beam>37</Beam>
+        <Note>
+          <pitch>75</pitch>
+          <tpc>23</tpc>
           </Note>
         </Chord>
       <Beam id="38">
@@ -2084,31 +2630,13 @@ p, li { white-space: pre-wrap; }
         <durationType>eighth</durationType>
         <Beam>38</Beam>
         <Note>
-          <pitch>72</pitch>
-          <tpc>26</tpc>
-          </Note>
-        </Chord>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>38</Beam>
-        <Note>
-          <pitch>75</pitch>
-          <tpc>23</tpc>
-          </Note>
-        </Chord>
-      <Beam id="39">
-        </Beam>
-      <Chord>
-        <durationType>eighth</durationType>
-        <Beam>39</Beam>
-        <Note>
           <pitch>81</pitch>
           <tpc>17</tpc>
           </Note>
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>39</Beam>
+        <Beam>38</Beam>
         <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
@@ -2116,12 +2644,16 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="30">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Chord>
         <durationType>eighth</durationType>
+        <Note>
+          <pitch>68</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>73</pitch>
+          <tpc>21</tpc>
+          </Note>
         <Note>
           <pitch>78</pitch>
           <tpc>20</tpc>
@@ -2130,11 +2662,11 @@ p, li { white-space: pre-wrap; }
       <Rest>
         <durationType>16th</durationType>
         </Rest>
-      <Beam id="40">
+      <Beam id="39">
         </Beam>
       <Chord>
         <durationType>32nd</durationType>
-        <Beam>40</Beam>
+        <Beam>39</Beam>
         <Note>
           <pitch>80</pitch>
           <tpc>22</tpc>
@@ -2142,7 +2674,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>32nd</durationType>
-        <Beam>40</Beam>
+        <Beam>39</Beam>
         <Note>
           <pitch>78</pitch>
           <tpc>20</tpc>
@@ -2151,15 +2683,19 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
+          <pitch>68</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
           <pitch>76</pitch>
           <tpc>18</tpc>
           </Note>
         </Chord>
-      <Beam id="41">
+      <Beam id="40">
         </Beam>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>41</Beam>
+        <Beam>40</Beam>
         <Note>
           <pitch>75</pitch>
           <tpc>23</tpc>
@@ -2167,14 +2703,28 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
-        <Beam>41</Beam>
+        <Beam>40</Beam>
         <Note>
           <pitch>73</pitch>
           <tpc>21</tpc>
           </Note>
         </Chord>
+      <Chord>
+        <track>1</track>
+        <tick>43200</tick>
+        <durationType>quarter</durationType>
+        <Note>
+          <track>1</track>
+          <pitch>68</pitch>
+          <tpc>22</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="31">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Chord>
         <durationType>eighth</durationType>
         <Note>
@@ -2253,9 +2803,13 @@ p, li { white-space: pre-wrap; }
           <tpc>23</tpc>
           </Note>
         </Chord>
-      <Rest>
+      <Chord>
         <durationType>quarter</durationType>
-        </Rest>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
       <Chord>
         <track>1</track>
         <tick>45120</tick>
@@ -2271,38 +2825,57 @@ p, li { white-space: pre-wrap; }
           <tpc>27</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <track>1</track>
-        <durationType>quarter</durationType>
-        </Rest>
       <Chord>
         <track>2</track>
         <tick>45120</tick>
         <durationType>quarter</durationType>
+        <Slur type="start" number="4"/>
         <Note>
           <offset x="0.7" y="0"/>
-          <pos x="0.7" y="2"/>
+          <pos x="0.7" y="2.5"/>
           <track>2</track>
           <pitch>71</pitch>
-          <tpc>19</tpc>
+          <tpc>31</tpc>
           </Note>
         </Chord>
       <Chord>
         <track>2</track>
         <leadingSpace>0.4</leadingSpace>
         <durationType>quarter</durationType>
+        <Slur type="stop" number="4"/>
         <Note>
           <track>2</track>
           <pitch>70</pitch>
           <tpc>24</tpc>
           </Note>
         </Chord>
-      <Rest>
-        <track>2</track>
-        <durationType>quarter</durationType>
-        </Rest>
       </Measure>
     <Measure number="33">
+      <KeySig>
+        <subtype>69</subtype>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="4" y="2.5"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="3" y="1"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="2" y="-0.5"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="1" y="1.5"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="0" y="0"/>
+          </KeySym>
+        <showCourtesySig>1</showCourtesySig>
+        <showNaturals>1</showNaturals>
+        </KeySig>
       <Rest>
         <durationType>measure</durationType>
         </Rest>
@@ -2362,13 +2935,6 @@ p, li { white-space: pre-wrap; }
     </Staff>
   <Staff id="2">
     <Measure number="1">
-      <Dynamic>
-        <style>12</style>
-        <subtype>mp</subtype>
-        <offset x="-2.91311" y="-10.8932"/>
-        <pos x="10.2036" y="4.63061"/>
-        <frame>0</frame>
-        </Dynamic>
       <KeySig>
         <subtype>5</subtype>
         <KeySym>
@@ -2671,10 +3237,6 @@ p, li { white-space: pre-wrap; }
       <Chord>
         <durationType>quarter</durationType>
         <Note>
-          <pitch>51</pitch>
-          <tpc>23</tpc>
-          </Note>
-        <Note>
           <pitch>55</pitch>
           <tpc>27</tpc>
           </Note>
@@ -2691,6 +3253,21 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Rest>
+        <durationType>eighth</durationType>
+        </Rest>
+      <Chord>
+        <track>5</track>
+        <tick>11040</tick>
+        <dots>1</dots>
+        <durationType>quarter</durationType>
+        <Note>
+          <track>5</track>
+          <pitch>51</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <track>5</track>
         <durationType>eighth</durationType>
         </Rest>
       </Measure>
@@ -2910,6 +3487,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>eighth</durationType>
+        <Articulation>
+          <subtype>staccato</subtype>
+          </Articulation>
         <Note>
           <pitch>58</pitch>
           <tpc>24</tpc>
@@ -2936,7 +3516,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Chord>
-        <durationType>quarter</durationType>
+        <durationType>eighth</durationType>
         <Note>
           <pitch>58</pitch>
           <tpc>24</tpc>
@@ -2946,9 +3526,21 @@ p, li { white-space: pre-wrap; }
           <tpc>21</tpc>
           </Note>
         </Chord>
+      <Rest>
+        <durationType>eighth</durationType>
+        </Rest>
       </Measure>
     <Measure number="16">
+      <Dynamic>
+        <style>12</style>
+        <subtype>mf</subtype>
+        <offset x="-1.90856" y="-10.1114"/>
+        <pos x="23.7819" y="5.41244"/>
+        <tick>23040</tick>
+        <frame>0</frame>
+        </Dynamic>
       <Chord>
+        <tick>22080</tick>
         <durationType>quarter</durationType>
         <Note>
           <pitch>44</pitch>
@@ -2957,6 +3549,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>quarter</durationType>
+        <Articulation>
+          <subtype>staccato</subtype>
+          </Articulation>
         <Note>
           <pitch>51</pitch>
           <tpc>23</tpc>
@@ -3003,12 +3598,36 @@ p, li { white-space: pre-wrap; }
           <tpc>18</tpc>
           </Note>
         </Chord>
-      <Rest>
+      <Chord>
         <durationType>quarter</durationType>
-        </Rest>
-      <Rest>
+        <Note>
+          <pitch>52</pitch>
+          <tpc>18</tpc>
+          </Note>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
         <durationType>quarter</durationType>
-        </Rest>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="18">
       <Chord>
@@ -3020,84 +3639,574 @@ p, li { white-space: pre-wrap; }
           <tpc>18</tpc>
           </Note>
         </Chord>
-      <Rest>
+      <Chord>
         <durationType>quarter</durationType>
-        </Rest>
-      <Rest>
+        <Note>
+          <pitch>52</pitch>
+          <tpc>18</tpc>
+          </Note>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
         <durationType>quarter</durationType>
-        </Rest>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="19">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>40</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>52</pitch>
+          <tpc>18</tpc>
+          </Note>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="20">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>47</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="21">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>47</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
+          <pitch>66</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="22">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>40</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>52</pitch>
+          <tpc>18</tpc>
+          </Note>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        <Note>
+          <pitch>68</pitch>
+          <tpc>22</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="23">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>42</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>24</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>24</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="24">
+      <Chord>
+        <durationType>eighth</durationType>
+        <Note>
+          <pitch>47</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
       <Rest>
-        <durationType>measure</durationType>
+        <durationType>eighth</durationType>
+        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>35</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Rest>
+        <durationType>quarter</durationType>
         </Rest>
       </Measure>
     <Measure number="25">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>42</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>24</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>24</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="26">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>47</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
+          <pitch>66</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="27">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>42</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>24</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>58</pitch>
+          <tpc>24</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="28">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>47</pitch>
+          <tpc>19</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>59</pitch>
+          <tpc>19</tpc>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
+          <pitch>66</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="29">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>32</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>44</pitch>
+          <tpc>22</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>51</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>60</pitch>
+          <tpc>26</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>60</pitch>
+          <tpc>26</tpc>
+          <userAccidental>1</userAccidental>
+          </Note>
+        <Note>
+          <pitch>63</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="30">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>37</pitch>
+          <tpc>21</tpc>
+          </Note>
+        <Note>
+          <pitch>49</pitch>
+          <tpc>21</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>52</pitch>
+          <tpc>18</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>56</pitch>
+          <tpc>22</tpc>
+          </Note>
+        <Note>
+          <pitch>61</pitch>
+          <tpc>21</tpc>
+          </Note>
+        <Note>
+          <pitch>64</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="31">
-      <Rest>
-        <durationType>measure</durationType>
-        </Rest>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>43</pitch>
+          <tpc>15</tpc>
+          </Note>
+        <Note>
+          <pitch>55</pitch>
+          <tpc>15</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>42</pitch>
+          <tpc>20</tpc>
+          </Note>
+        <Note>
+          <pitch>54</pitch>
+          <tpc>20</tpc>
+          </Note>
+        </Chord>
+      <Chord>
+        <durationType>quarter</durationType>
+        <Note>
+          <pitch>40</pitch>
+          <tpc>18</tpc>
+          </Note>
+        <Note>
+          <pitch>52</pitch>
+          <tpc>18</tpc>
+          </Note>
+        </Chord>
       </Measure>
     <Measure number="32">
+      <Chord>
+        <durationType>half</durationType>
+        <Note>
+          <pitch>39</pitch>
+          <tpc>23</tpc>
+          </Note>
+        <Note>
+          <pitch>51</pitch>
+          <tpc>23</tpc>
+          </Note>
+        </Chord>
       <Rest>
-        <durationType>measure</durationType>
+        <durationType>quarter</durationType>
         </Rest>
       </Measure>
     <Measure number="33">
+      <KeySig>
+        <subtype>69</subtype>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="4" y="3.5"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="3" y="2"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="2" y="0.5"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="1" y="2.5"/>
+          </KeySym>
+        <KeySym>
+          <sym>32</sym>
+          <pos x="0" y="1"/>
+          </KeySym>
+        <showCourtesySig>1</showCourtesySig>
+        <showNaturals>1</showNaturals>
+        </KeySig>
       <Rest>
         <durationType>measure</durationType>
         </Rest>
@@ -3148,5 +4257,5 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     </Staff>
-  <cursorTrack>0</cursorTrack>
+  <cursorTrack>-1</cursorTrack>
   </museScore>
