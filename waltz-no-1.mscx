@@ -374,7 +374,7 @@ p, li { white-space: pre-wrap; }
     <tick2>10560</tick2>
     <Segment>
       <off1 x="-1.67083" y="8.18571"/>
-      <off2 x="-11.4175" y="0"/>
+      <off2 x="-11.8233" y="0"/>
       <offset x="-1.67083" y="8.18571"/>
       <pos x="17.8554" y="83.6321"/>
       </Segment>
@@ -430,10 +430,10 @@ p, li { white-space: pre-wrap; }
     <tick>11520</tick>
     <tick2>12000</tick2>
     <Segment>
-      <off1 x="0.585316" y="7.91019"/>
+      <off1 x="-0.226372" y="8.04547"/>
       <off2 x="-8.12223" y="0"/>
-      <offset x="0.585316" y="7.91019"/>
-      <pos x="50.7772" y="83.3566"/>
+      <offset x="-0.226372" y="8.04547"/>
+      <pos x="49.9655" y="83.4919"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -544,10 +544,10 @@ p, li { white-space: pre-wrap; }
     <tick>19680</tick>
     <tick2>20640</tick2>
     <Segment>
-      <off1 x="-4.4102" y="7.71053"/>
-      <off2 x="-6.06916" y="0"/>
-      <offset x="-4.4102" y="7.71053"/>
-      <pos x="59.7246" y="114.934"/>
+      <off1 x="-5.22189" y="7.71053"/>
+      <off2 x="-5.25747" y="0"/>
+      <offset x="-5.22189" y="7.71053"/>
+      <pos x="58.913" y="114.934"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -687,7 +687,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.447211" y="-2.45966"/>
       <off2 x="10.5095" y="0"/>
       <offset x="0.447211" y="-2.45966"/>
-      <pos x="154.177" y="11.6832"/>
+      <pos x="157.082" y="11.6832"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -698,7 +698,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0.223606" y="-2.23606"/>
       <off2 x="6.93177" y="0"/>
       <offset x="0.223606" y="-2.23606"/>
-      <pos x="193.492" y="11.9068"/>
+      <pos x="202.762" y="11.9068"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -706,10 +706,10 @@ p, li { white-space: pre-wrap; }
     <tick>43680</tick>
     <tick2>43920</tick2>
     <Segment>
-      <off1 x="0" y="-0.894422"/>
+      <off1 x="1.6369" y="-1.19204"/>
       <off2 x="2.79507" y="0"/>
-      <offset x="0" y="-0.894422"/>
-      <pos x="140.99" y="70.427"/>
+      <offset x="1.6369" y="-1.19204"/>
+      <pos x="166.921" y="69.3608"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -721,7 +721,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="2.79507" y="-1.11803"/>
       <off2 x="8.38521" y="0"/>
       <offset x="2.79507" y="-1.11803"/>
-      <pos x="151.382" y="70.2034"/>
+      <pos x="176.001" y="69.4348"/>
       </Segment>
     </HairPin>
   <Slur id="13">
@@ -738,9 +738,9 @@ p, li { white-space: pre-wrap; }
     <tick2>90240</tick2>
     <Segment>
       <off1 x="0" y="-14.0841"/>
-      <off2 x="8.03571" y="0"/>
+      <off2 x="14.2857" y="0"/>
       <offset x="0" y="-14.0841"/>
-      <pos x="270.779" y="96.6384"/>
+      <pos x="270.779" y="124.916"/>
       </Segment>
     </HairPin>
   <Slur id="14">
@@ -841,7 +841,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.27083" y="6.32274"/>
       <off2 x="-2.01245" y="0"/>
       <offset x="-0.27083" y="6.32274"/>
-      <pos x="153.459" y="30.9656"/>
+      <pos x="156.363" y="30.9656"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -860,7 +860,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.800502" y="7.79432"/>
       <off2 x="-4.24851" y="0"/>
       <offset x="-0.800502" y="7.79432"/>
-      <pos x="169.137" y="32.4372"/>
+      <pos x="174.947" y="32.4372"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -879,7 +879,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.964125" y="7.36219"/>
       <off2 x="-3.57769" y="0"/>
       <offset x="-0.964125" y="7.36219"/>
-      <pos x="187.051" y="32.005"/>
+      <pos x="195.216" y="32.005"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -898,7 +898,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-2.02021" y="8.72197"/>
       <off2 x="-6.03735" y="0"/>
       <offset x="-2.02021" y="8.72197"/>
-      <pos x="208.861" y="33.3648"/>
+      <pos x="221.411" y="33.3648"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -917,7 +917,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.95289" y="6.8999"/>
       <off2 x="0" y="0"/>
       <offset x="-0.95289" y="6.8999"/>
-      <pos x="221.744" y="31.5428"/>
+      <pos x="140.471" y="60.1397"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -936,7 +936,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.50369" y="7.53344"/>
       <off2 x="-2.79507" y="0"/>
       <offset x="-1.50369" y="7.53344"/>
-      <pos x="145.044" y="60.7656"/>
+      <pos x="164.169" y="60.7733"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -952,10 +952,10 @@ p, li { white-space: pre-wrap; }
     <tick>40320</tick>
     <tick2>40800</tick2>
     <Segment>
-      <off1 x="-13.7728" y="10.1246"/>
-      <off2 x="10.5877" y="0"/>
-      <offset x="-13.7728" y="10.1246"/>
-      <pos x="172.805" y="63.3567"/>
+      <off1 x="-5.65592" y="10.1246"/>
+      <off2 x="2.47082" y="0"/>
+      <offset x="-5.65592" y="10.1246"/>
+      <pos x="203.095" y="63.3644"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -974,7 +974,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.34368" y="10.1472"/>
       <off2 x="-1.34163" y="0"/>
       <offset x="-1.34368" y="10.1472"/>
-      <pos x="193.103" y="63.3793"/>
+      <pos x="215.412" y="63.387"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -990,10 +990,10 @@ p, li { white-space: pre-wrap; }
     <tick>42240</tick>
     <tick2>43680</tick2>
     <Segment>
-      <off1 x="-1.18492" y="10.0044"/>
-      <off2 x="-14.4226" y="0"/>
-      <offset x="-1.18492" y="10.0044"/>
-      <pos x="212.104" y="63.2365"/>
+      <off1 x="-1.18492" y="9.33358"/>
+      <off2 x="-16.6547" y="0"/>
+      <offset x="-1.18492" y="9.33358"/>
+      <pos x="138.919" y="90.3864"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1009,10 +1009,10 @@ p, li { white-space: pre-wrap; }
     <tick>42720</tick>
     <tick2>43680</tick2>
     <Segment>
-      <off1 x="-1.59479" y="9.91087"/>
-      <off2 x="-7.26718" y="0"/>
-      <offset x="-1.59479" y="9.91087"/>
-      <pos x="221.694" y="63.143"/>
+      <off1 x="-1.71235" y="9.2447"/>
+      <off2 x="-10.0946" y="0"/>
+      <offset x="-1.71235" y="9.2447"/>
+      <pos x="148.998" y="90.2975"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1028,10 +1028,10 @@ p, li { white-space: pre-wrap; }
     <tick>43200</tick>
     <tick2>43680</tick2>
     <Segment>
-      <off1 x="-0.830922" y="9.68666"/>
-      <off2 x="0" y="0"/>
-      <offset x="-0.830922" y="9.68666"/>
-      <pos x="227.286" y="62.9188"/>
+      <off1 x="-0.870108" y="9.09887"/>
+      <off2 x="-3.42262" y="0"/>
+      <offset x="-0.870108" y="9.09887"/>
+      <pos x="154.961" y="90.1517"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1047,10 +1047,10 @@ p, li { white-space: pre-wrap; }
     <tick>43680</tick>
     <tick2>45120</tick2>
     <Segment>
-      <off1 x="-2.23685" y="8.52354"/>
+      <off1 x="-2.23685" y="8.9154"/>
       <off2 x="-14.1743" y="0"/>
-      <offset x="-2.23685" y="8.52354"/>
-      <pos x="138.753" y="90.345"/>
+      <offset x="-2.23685" y="8.9154"/>
+      <pos x="163.048" y="89.9682"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1066,10 +1066,10 @@ p, li { white-space: pre-wrap; }
     <tick>44160</tick>
     <tick2>45120</tick2>
     <Segment>
-      <off1 x="-1.15345" y="8.43001"/>
-      <off2 x="-9.15133" y="0"/>
-      <offset x="-1.15345" y="8.43001"/>
-      <pos x="147.433" y="90.2514"/>
+      <off1 x="-1.67825" y="8.82981"/>
+      <off2 x="-7.96085" y="0"/>
+      <offset x="-1.67825" y="8.82981"/>
+      <pos x="171.527" y="89.8826"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1085,10 +1085,10 @@ p, li { white-space: pre-wrap; }
     <tick>44640</tick>
     <tick2>45120</tick2>
     <Segment>
-      <off1 x="-0.792842" y="8.29056"/>
+      <off1 x="-0.832028" y="8.64324"/>
       <off2 x="-1.1349" y="0"/>
-      <offset x="-0.792842" y="8.29056"/>
-      <pos x="152.436" y="90.112"/>
+      <offset x="-0.832028" y="8.64324"/>
+      <pos x="177.214" y="89.6961"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1104,10 +1104,10 @@ p, li { white-space: pre-wrap; }
     <tick>45120</tick>
     <tick2>46560</tick2>
     <Segment>
-      <off1 x="-1.17145" y="8.0711"/>
-      <off2 x="-17.9544" y="0"/>
-      <offset x="-1.17145" y="8.0711"/>
-      <pos x="160.83" y="89.8925"/>
+      <off1 x="-1.17145" y="8.46296"/>
+      <off2 x="-19.2937" y="0"/>
+      <offset x="-1.17145" y="8.46296"/>
+      <pos x="184.455" y="89.5158"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1126,7 +1126,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.78886" y="6.73921"/>
       <off2 x="-1.29817" y="0"/>
       <offset x="-0.78886" y="6.73921"/>
-      <pos x="323.764" y="31.3821"/>
+      <pos x="294.282" y="59.1581"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1145,7 +1145,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.781854" y="6.53194"/>
       <off2 x="-1.83271" y="0"/>
       <offset x="-0.781854" y="6.53194"/>
-      <pos x="337.63" y="31.1748"/>
+      <pos x="308.47" y="58.9508"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1164,7 +1164,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.57293" y="6.90707"/>
       <off2 x="-5.66722" y="0"/>
       <offset x="-1.57293" y="6.90707"/>
-      <pos x="350.307" y="31.5499"/>
+      <pos x="320.921" y="59.326"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1183,7 +1183,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.42765" y="6.81159"/>
       <off2 x="0.0138838" y="0"/>
       <offset x="-1.42765" y="6.81159"/>
-      <pos x="358.914" y="31.4544"/>
+      <pos x="329.125" y="59.2305"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1202,7 +1202,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.69155" y="6.69038"/>
       <off2 x="-0.763628" y="0"/>
       <offset x="-1.69155" y="6.69038"/>
-      <pos x="267.101" y="59.6108"/>
+      <pos x="334.251" y="59.1093"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1221,7 +1221,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.66467" y="6.45423"/>
       <off2 x="-2.91567" y="0"/>
       <offset x="-1.66467" y="6.45423"/>
-      <pos x="283.095" y="59.3746"/>
+      <pos x="349.236" y="58.8731"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1240,7 +1240,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-2.09537" y="6.29818"/>
       <off2 x="0" y="0"/>
       <offset x="-2.09537" y="6.29818"/>
-      <pos x="298.751" y="59.2186"/>
+      <pos x="267.584" y="88.4991"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1259,7 +1259,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.11877" y="6.17632"/>
       <off2 x="-0.983863" y="0"/>
       <offset x="-1.11877" y="6.17632"/>
-      <pos x="316.805" y="59.0967"/>
+      <pos x="288.036" y="88.3772"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1278,7 +1278,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.16983" y="7.19794"/>
       <off2 x="-7.37897" y="0"/>
       <offset x="-1.16983" y="7.19794"/>
-      <pos x="332.72" y="60.1183"/>
+      <pos x="306.901" y="89.3988"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1297,7 +1297,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.0979" y="6.46247"/>
       <off2 x="-2.44361" y="0"/>
       <offset x="-1.0979" y="6.46247"/>
-      <pos x="348.759" y="59.3829"/>
+      <pos x="325.888" y="88.6634"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1316,7 +1316,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-2.4509" y="6.57414"/>
       <off2 x="0" y="0"/>
       <offset x="-2.4509" y="6.57414"/>
-      <pos x="267.228" y="87.7721"/>
+      <pos x="343.605" y="88.775"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1332,10 +1332,10 @@ p, li { white-space: pre-wrap; }
     <tick>84000</tick>
     <tick2>85440</tick2>
     <Segment>
-      <off1 x="-1.36882" y="6.28556"/>
-      <off2 x="-1.35281" y="0"/>
-      <offset x="-1.36882" y="6.28556"/>
-      <pos x="286.175" y="87.4835"/>
+      <off1 x="-1.36882" y="6.8808"/>
+      <off2 x="-2.39448" y="0"/>
+      <offset x="-1.36882" y="6.8808"/>
+      <pos x="267.424" y="116.858"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1352,9 +1352,9 @@ p, li { white-space: pre-wrap; }
     <tick2>86880</tick2>
     <Segment>
       <off1 x="-1.20623" y="6.86272"/>
-      <off2 x="-9.59267" y="0"/>
+      <off2 x="-13.6105" y="0"/>
       <offset x="-1.20623" y="6.86272"/>
-      <pos x="308.754" y="88.0606"/>
+      <pos x="294.828" y="116.84"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1373,7 +1373,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.00384" y="7.67856"/>
       <off2 x="-0.983863" y="0"/>
       <offset x="-1.00384" y="7.67856"/>
-      <pos x="329.365" y="88.8765"/>
+      <pos x="319.714" y="117.655"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1392,7 +1392,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.24504" y="7.63595"/>
       <off2 x="-1.96773" y="0"/>
       <offset x="-1.24504" y="7.63595"/>
-      <pos x="347.393" y="88.8339"/>
+      <pos x="342.567" y="117.613"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1411,7 +1411,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.65809" y="7.6408"/>
       <off2 x="0" y="0"/>
       <offset x="-1.65809" y="7.6408"/>
-      <pos x="269.121" y="118.363"/>
+      <pos x="269.121" y="146.641"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -1431,7 +1431,7 @@ p, li { white-space: pre-wrap; }
     <SlurSegment no="0">
       <o2 x="0.111803" y="-2.45966"/>
       <o3 x="-0.223606" y="-1.67704"/>
-      <o4 x="22.9196" y="-1.22983"/>
+      <o4 x="32.254" y="-0.553423"/>
       </SlurSegment>
     <up>1</up>
     </Slur>
@@ -1503,7 +1503,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0" y="-0.540179"/>
       <off2 x="11.8839" y="0"/>
       <offset x="0" y="-0.540179"/>
-      <pos x="153.144" y="99.3705"/>
+      <pos x="196.857" y="97.8257"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1511,10 +1511,10 @@ p, li { white-space: pre-wrap; }
     <tick>55200</tick>
     <tick2>55440</tick2>
     <Segment>
-      <off1 x="0" y="-1.08036"/>
-      <off2 x="22.8676" y="0"/>
-      <offset x="0" y="-1.08036"/>
-      <pos x="183.286" y="98.8304"/>
+      <off1 x="0.184798" y="-0.341168"/>
+      <off2 x="24.6263" y="0"/>
+      <offset x="0.184798" y="-0.341168"/>
+      <pos x="141.288" y="125.838"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1525,7 +1525,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.18006" y="-1.26042"/>
       <off2 x="4.86161" y="0"/>
       <offset x="-0.18006" y="-1.26042"/>
-      <pos x="227.109" y="127.24"/>
+      <pos x="321.731" y="12.8824"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1550,17 +1550,16 @@ p, li { white-space: pre-wrap; }
       <off1 x="-0.731891" y="6.60279"/>
       <off2 x="-18.006" y="0"/>
       <offset x="-0.731891" y="6.60279"/>
-      <pos x="299.047" y="31.2457"/>
+      <pos x="269.241" y="59.0217"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
     </Pedal>
   <Slur id="35">
-    <tick>0</tick>
     <SlurSegment no="0">
-      <o2 x="-0.541126" y="-4.329"/>
-      <o3 x="-0.405844" y="-1.08225"/>
-      <o4 x="22.7273" y="-0.405844"/>
+      <o2 x="-0.541126" y="-2.97619"/>
+      <o3 x="-0.541125" y="-1.75866"/>
+      <o4 x="24.3507" y="-0.811688"/>
       </SlurSegment>
     <up>1</up>
     </Slur>
@@ -1569,9 +1568,9 @@ p, li { white-space: pre-wrap; }
     <tick2>98640</tick2>
     <Segment>
       <off1 x="0" y="-0.676407"/>
-      <off2 x="11.3636" y="0"/>
+      <off2 x="17.9924" y="0"/>
       <offset x="0" y="-0.676407"/>
-      <pos x="270.859" y="127.824"/>
+      <pos x="420.575" y="13.4665"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1580,9 +1579,9 @@ p, li { white-space: pre-wrap; }
     <tick2>101520</tick2>
     <Segment>
       <off1 x="0" y="-0.94697"/>
-      <off2 x="21.9156" y="0"/>
+      <off2 x="22.4567" y="0"/>
       <offset x="0" y="-0.94697"/>
-      <pos x="316.882" y="127.553"/>
+      <pos x="452.254" y="13.1959"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1593,7 +1592,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0" y="-1.35281"/>
       <off2 x="3.78788" y="0"/>
       <offset x="0" y="-1.35281"/>
-      <pos x="426.84" y="36.54"/>
+      <pos x="427.242" y="62.5936"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1618,11 +1617,13 @@ p, li { white-space: pre-wrap; }
       <off1 x="-1.03741" y="7.90667"/>
       <off2 x="-4.50149" y="0"/>
       <offset x="-1.03741" y="7.90667"/>
-      <pos x="470.414" y="56.2995"/>
+      <pos x="470.139" y="82.3531"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
     </Pedal>
+  <Slur id="36">
+    </Slur>
   <Staff id="1">
     <VBox>
       <height>10</height>
@@ -2036,6 +2037,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="6">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -2362,6 +2366,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="11">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Tuplet id="4">
         <tick>15840</tick>
         <numberType>0</numberType>
@@ -2675,6 +2682,9 @@ p, li { white-space: pre-wrap; }
         <pos x="26.0572" y="4.59584"/>
         <tick>21840</tick>
         </Dynamic>
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Tuplet id="7">
         <tick>21120</tick>
         <numberType>0</numberType>
@@ -2970,6 +2980,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="19">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -3287,6 +3300,9 @@ p, li { white-space: pre-wrap; }
       </Measure>
     <Measure number="24">
       <stretch>1.3</stretch>
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <durationType>half</durationType>
         <Note>
@@ -3328,11 +3344,15 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="25">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Dynamic>
         <style>12</style>
         <subtype>mf</subtype>
         <offset x="-1.30564" y="-0.459458"/>
-        <pos x="0.374366" y="4.56435"/>
+        <pos x="9.54771" y="4.56435"/>
         <frame>0</frame>
         </Dynamic>
       <Chord>
@@ -3369,6 +3389,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       <Chord>
         <durationType>quarter</durationType>
+        <Slur type="start" number="36"/>
         <Note>
           <pitch>82</pitch>
           <tpc>24</tpc>
@@ -3376,12 +3397,12 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="26">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Chord>
         <durationType>eighth</durationType>
+        <Articulation>
+          <subtype>staccato</subtype>
+          </Articulation>
+        <Slur type="stop" number="36"/>
         <Note>
           <pitch>71</pitch>
           <tpc>19</tpc>
@@ -3503,17 +3524,21 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="28">
+      <vspacer>7.28395</vspacer>
       <Dynamic>
         <style>12</style>
         <subtype>mf</subtype>
         <offset x="-0.834375" y="-1.64344"/>
-        <pos x="13.4799" y="3.38037"/>
+        <pos x="14.259" y="3.38037"/>
         <tick>40320</tick>
         <frame>0</frame>
         </Dynamic>
       <Chord>
         <tick>39360</tick>
         <durationType>eighth</durationType>
+        <Articulation>
+          <subtype>staccato</subtype>
+          </Articulation>
         <Note>
           <pitch>71</pitch>
           <tpc>19</tpc>
@@ -3583,6 +3608,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="29">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Beam id="35">
         </Beam>
       <Chord>
@@ -3639,7 +3667,11 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="30">
-      <stretch>1.7</stretch>
+      <stretch>1.3</stretch>
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Chord>
         <durationType>eighth</durationType>
         <Note>
@@ -3717,16 +3749,12 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="31">
-      <stretch>1</stretch>
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
+      <stretch>0.6</stretch>
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
-        <offset x="-2.65591" y="9.48918"/>
-        <pos x="7.7641" y="5.48918"/>
+        <offset x="-0.870196" y="9.63799"/>
+        <pos x="0.37647" y="5.63799"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -3815,7 +3843,7 @@ p, li { white-space: pre-wrap; }
         <style>12</style>
         <subtype>p</subtype>
         <offset x="-0.122755" y="-0.799383"/>
-        <pos x="14.8252" y="4.22443"/>
+        <pos x="16.6705" y="4.22443"/>
         <tick>46080</tick>
         </Dynamic>
       <Chord>
@@ -3899,6 +3927,9 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">a tempo</span></p></td></tr></table></body></html>
           </html-data>
         </StaffText>
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Tuplet id="10">
         <tick>47520</tick>
         <numberType>0</numberType>
@@ -4000,6 +4031,10 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="34">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Chord>
         <durationType>half</durationType>
         <Slur type="start" number="16"/>
@@ -4106,10 +4141,6 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="36">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Chord>
         <durationType>half</durationType>
         <Slur type="start" number="17"/>
@@ -4204,6 +4235,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="38">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -4242,6 +4276,10 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="39">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Beam id="46">
         </Beam>
       <Chord>
@@ -4326,8 +4364,8 @@ p, li { white-space: pre-wrap; }
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
-        <offset x="2.37365" y="11.0883"/>
-        <pos x="4.12365" y="7.0883"/>
+        <offset x="0.618069" y="12.5667"/>
+        <pos x="1.81807" y="8.5667"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -4392,7 +4430,7 @@ p, li { white-space: pre-wrap; }
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="-1.93453" y="0.892859"/>
-        <pos x="1.7675" y="-3.10714"/>
+        <pos x="1.2175" y="-3.10714"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -4407,8 +4445,8 @@ p, li { white-space: pre-wrap; }
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
-        <offset x="3.76064" y="8.84258"/>
-        <pos x="7.46267" y="4.84258"/>
+        <offset x="3.76064" y="11.0602"/>
+        <pos x="6.91267" y="7.0602"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -4417,7 +4455,7 @@ p, li { white-space: pre-wrap; }
 <table border="0" style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
 <tr>
 <td style="border: none;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">cresc.   -   -   - </span></p></td></tr></table></body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">cresc.   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   - </span></p></td></tr></table></body></html>
           </html-data>
         </StaffText>
       <Tuplet id="13">
@@ -4498,23 +4536,6 @@ p, li { white-space: pre-wrap; }
         </BarLine>
       </Measure>
     <Measure number="42">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
-      <StaffText>
-        <style>23</style>
-        <subtype>Staff</subtype>
-        <offset x="-0.101639" y="9.24914"/>
-        <pos x="10.4317" y="5.24914"/>
-        <frame>0</frame>
-        <html-data>
-<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
-p, li { white-space: pre-wrap; }
-</style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt;">-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -</span></p></body></html>
-          </html-data>
-        </StaffText>
       <Chord>
         <durationType>half</durationType>
         <Slur type="start" number="23"/>
@@ -4545,6 +4566,10 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="43">
+      <vspacer>8.82114</vspacer>
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Tuplet id="14">
         <tick>61920</tick>
         <numberType>0</numberType>
@@ -4621,6 +4646,23 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="44">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
+      <StaffText>
+        <style>23</style>
+        <subtype>Staff</subtype>
+        <offset x="0.161986" y="8.9448"/>
+        <pos x="10.6953" y="4.9448"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt;">-   -   -   -   -   -   -</span></p></body></html>
+          </html-data>
+        </StaffText>
       <Chord>
         <durationType>half</durationType>
         <Slur type="start" number="24"/>
@@ -4650,7 +4692,7 @@ p, li { white-space: pre-wrap; }
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="-0.203278" y="0.203278"/>
-        <pos x="8.72659" y="-3.79672"/>
+        <pos x="9.4713" y="-3.79672"/>
         <tick>64560</tick>
         <frame>0</frame>
         <html-data>
@@ -4822,10 +4864,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="47">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Tuplet id="17">
         <tick>67200</tick>
         <numberType>0</numberType>
@@ -4903,11 +4944,15 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="48">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="-0.184798" y="9.2399"/>
-        <pos x="9.72394" y="5.2399"/>
+        <pos x="18.7537" y="5.2399"/>
         <tick>69120</tick>
         <frame>0</frame>
         <html-data>
@@ -5111,7 +5156,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="51">
-      <stretch>1.4</stretch>
+      <stretch>1.2</stretch>
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -5147,10 +5192,6 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="52">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Chord>
         <dots>1</dots>
         <durationType>quarter</durationType>
@@ -5190,6 +5231,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="53">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Rest>
         <offset x="0" y="-4"/>
         <pos x="0" y="-2"/>
@@ -5260,6 +5304,10 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="54">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -5369,15 +5417,29 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="57">
+      <vspacer>8.50595</vspacer>
       <Dynamic>
         <style>12</style>
         <subtype>p</subtype>
         <offset x="-0.116628" y="-1.52993"/>
         <pos x="1.08337" y="3.49388"/>
         </Dynamic>
-      <LayoutBreak>
-        <subtype>line</subtype>
-        </LayoutBreak>
+      <StaffText>
+        <style>23</style>
+        <subtype>Staff</subtype>
+        <offset x="3.46302" y="9.4233"/>
+        <pos x="4.66302" y="5.4233"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
+<table border="0" style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
+<tr>
+<td style="border: none;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">cresc.   -   -   -   -   -   -   -   -   -   -   -   -   -   -</span></p></td></tr></table></body></html>
+          </html-data>
+        </StaffText>
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -5413,10 +5475,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="58">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <durationType>quarter</durationType>
         <Note>
@@ -5467,6 +5528,10 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="59">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
@@ -5677,8 +5742,10 @@ p, li { white-space: pre-wrap; }
           <Tie>
             <track>1</track>
             <SlurSegment no="0">
-              <o2 x="0" y="0.521568"/>
-              <o3 x="0" y="0.474153"/>
+              <o1 x="0" y="0.251997"/>
+              <o2 x="-0.167998" y="0.437569"/>
+              <o3 x="-0.251997" y="0.72615"/>
+              <o4 x="0" y="0.167998"/>
               </SlurSegment>
             <up>1</up>
             </Tie>
@@ -5837,7 +5904,7 @@ p, li { white-space: pre-wrap; }
         <style>12</style>
         <subtype>mf</subtype>
         <offset x="-1.3233" y="-0.810281"/>
-        <pos x="5.06466" y="4.21353"/>
+        <pos x="6.15231" y="4.21353"/>
         <tick>91680</tick>
         <frame>0</frame>
         </Dynamic>
@@ -6016,6 +6083,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="66">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <durationType>half</durationType>
         <Slur type="start" number="26"/>
@@ -6046,6 +6116,10 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="67">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Tuplet id="21">
         <tick>96480</tick>
         <numberType>0</numberType>
@@ -6140,10 +6214,6 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="69">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Tuplet id="22">
         <tick>99360</tick>
         <numberType>0</numberType>
@@ -6343,7 +6413,7 @@ p, li { white-space: pre-wrap; }
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="2.37365" y="11.0883"/>
-        <pos x="4.12365" y="7.0883"/>
+        <pos x="3.57365" y="7.0883"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -6428,8 +6498,8 @@ p, li { white-space: pre-wrap; }
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
-        <offset x="3.76064" y="8.84258"/>
-        <pos x="16.246" y="4.84258"/>
+        <offset x="3.76064" y="10.9259"/>
+        <pos x="16.246" y="6.9259"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -6547,6 +6617,7 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="75">
+      <vspacer>8.80357</vspacer>
       <Tuplet id="24">
         <tick>108000</tick>
         <numberType>0</numberType>
@@ -6659,7 +6730,7 @@ p, li { white-space: pre-wrap; }
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="-0.203278" y="0.203278"/>
-        <pos x="18.6656" y="-3.79672"/>
+        <pos x="18.7809" y="-3.79672"/>
         <tick>110640</tick>
         <frame>0</frame>
         <html-data>
@@ -6763,6 +6834,22 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="78">
+      <StaffText>
+        <style>23</style>
+        <subtype>Staff</subtype>
+        <offset x="-0.60254" y="9.6002"/>
+        <pos x="0.59746" y="5.6002"/>
+        <frame>0</frame>
+        <html-data>
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
+<table border="0" style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
+<tr>
+<td style="border: none;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">rall.</span></p></td></tr></table></body></html>
+          </html-data>
+        </StaffText>
       <Tuplet id="26">
         <tick>112320</tick>
         <numberType>0</numberType>
@@ -6835,7 +6922,7 @@ p, li { white-space: pre-wrap; }
         <style>12</style>
         <subtype>p</subtype>
         <offset x="-0.446439" y="-0.681361"/>
-        <pos x="26.3308" y="4.34245"/>
+        <pos x="25.9982" y="4.34245"/>
         <tick>114000</tick>
         </Dynamic>
       <Tuplet id="27">
@@ -6925,6 +7012,7 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Rest>
+        <visible>0</visible>
         <durationType>quarter</durationType>
         </Rest>
       <BarLine>
@@ -8043,6 +8131,9 @@ p, li { white-space: pre-wrap; }
         </Rest>
       <Chord>
         <durationType>quarter</durationType>
+        <Articulation>
+          <subtype>staccato</subtype>
+          </Articulation>
         <Note>
           <pitch>35</pitch>
           <tpc>19</tpc>
@@ -8153,7 +8244,7 @@ p, li { white-space: pre-wrap; }
         <style>12</style>
         <subtype>mp</subtype>
         <offset x="-1.08972" y="-10.8683"/>
-        <pos x="0.590286" y="4.65551"/>
+        <pos x="0.590286" y="5.43946"/>
         <frame>0</frame>
         </Dynamic>
       <Chord>
@@ -8430,7 +8521,7 @@ p, li { white-space: pre-wrap; }
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">pedal as before</p></body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt;">pedal as before</span></p></body></html>
           </html-data>
         </StaffText>
       <KeySig>
@@ -9088,7 +9179,7 @@ p, li { white-space: pre-wrap; }
         <style>12</style>
         <subtype>p</subtype>
         <offset x="-0.444023" y="-10.8148"/>
-        <pos x="31.8808" y="4.70902"/>
+        <pos x="26.0453" y="4.70901"/>
         <tick>67920</tick>
         </Dynamic>
       <Chord>
@@ -9152,8 +9243,8 @@ p, li { white-space: pre-wrap; }
       <Dynamic>
         <style>12</style>
         <subtype>mp</subtype>
-        <offset x="-16.5713" y="-9.64476"/>
-        <pos x="-5.5213" y="5.87905"/>
+        <offset x="-17.7597" y="-9.64476"/>
+        <pos x="-6.7097" y="5.87905"/>
         <frame>0</frame>
         </Dynamic>
       <KeySig>
@@ -10592,9 +10683,10 @@ p, li { white-space: pre-wrap; }
           </Note>
         </Chord>
       <Rest>
+        <visible>0</visible>
         <durationType>quarter</durationType>
         </Rest>
       </Measure>
     </Staff>
-  <cursorTrack>-1</cursorTrack>
+  <cursorTrack>1</cursorTrack>
   </museScore>
