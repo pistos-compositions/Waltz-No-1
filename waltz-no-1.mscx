@@ -1582,7 +1582,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0" y="-0.94697"/>
       <off2 x="21.9156" y="0"/>
       <offset x="0" y="-0.94697"/>
-      <pos x="301.246" y="127.553"/>
+      <pos x="316.882" y="127.553"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1593,7 +1593,7 @@ p, li { white-space: pre-wrap; }
       <off1 x="0" y="-1.35281"/>
       <off2 x="3.78788" y="0"/>
       <offset x="0" y="-1.35281"/>
-      <pos x="450.303" y="12.79"/>
+      <pos x="426.84" y="36.54"/>
       </Segment>
     </HairPin>
   <HairPin>
@@ -1616,10 +1616,9 @@ p, li { white-space: pre-wrap; }
     <tick2>115680</tick2>
     <Segment>
       <off1 x="-1.03741" y="7.90667"/>
-      <off2 x="0" y="0"/>
+      <off2 x="-4.50149" y="0"/>
       <offset x="-1.03741" y="7.90667"/>
-      <pos x="390.513" y="56.2995"/>
-      <selected>1</selected>
+      <pos x="470.414" y="56.2995"/>
       </Segment>
     <beginSymbol>197</beginSymbol>
     <beginSymbolOffset x="0" y="0"/>
@@ -6356,6 +6355,9 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">rit.</span></p></td></tr></table></body></html>
           </html-data>
         </StaffText>
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <durationType>half</durationType>
         <Note>
@@ -6403,11 +6405,15 @@ p, li { white-space: pre-wrap; }
         </Rest>
       </Measure>
     <Measure number="73">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="-1.93453" y="0.892859"/>
-        <pos x="1.2175" y="-3.10714"/>
+        <pos x="10.5509" y="-3.10714"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -6423,7 +6429,7 @@ p, li { white-space: pre-wrap; }
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="3.76064" y="8.84258"/>
-        <pos x="6.91267" y="4.84258"/>
+        <pos x="16.246" y="4.84258"/>
         <frame>0</frame>
         <html-data>
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
@@ -6432,7 +6438,7 @@ p, li { white-space: pre-wrap; }
 <table border="0" style="-qt-table-type: root; margin-top:1px; margin-bottom:1px; margin-left:1px; margin-right:1px;">
 <tr>
 <td style="border: none;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">cresc.   -   -   -   -   -   -   -   -   -</span></p></td></tr></table></body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt; font-style:italic;">cresc.   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -</span></p></td></tr></table></body></html>
           </html-data>
         </StaffText>
       <Tuplet id="23">
@@ -6541,23 +6547,6 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="75">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
-      <StaffText>
-        <style>23</style>
-        <subtype>Staff</subtype>
-        <offset x="-0.101639" y="9.24914"/>
-        <pos x="12.3837" y="5.24914"/>
-        <frame>0</frame>
-        <html-data>
-<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
-p, li { white-space: pre-wrap; }
-</style></head><body style=" font-family:'Times New Roman'; font-size:10.08pt; font-weight:400; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:10pt;">-   -   -   -   -   -   -   -   -   -   -   -   -</span></p></body></html>
-          </html-data>
-        </StaffText>
       <Tuplet id="24">
         <tick>108000</tick>
         <numberType>0</numberType>
@@ -6634,6 +6623,9 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="76">
+      <LayoutBreak>
+        <subtype>line</subtype>
+        </LayoutBreak>
       <Chord>
         <durationType>half</durationType>
         <Slur type="start" number="33"/>
@@ -6652,18 +6644,22 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="77">
+      <Text>
+        <style>17</style>
+        <subtype>MeasureNumber</subtype>
+        </Text>
       <Dynamic>
         <style>12</style>
         <subtype>f</subtype>
         <offset x="-0.0711711" y="-0.18307"/>
-        <pos x="1.67883" y="4.84074"/>
+        <pos x="10.4622" y="4.84074"/>
         <frame>0</frame>
         </Dynamic>
       <StaffText>
         <style>23</style>
         <subtype>Staff</subtype>
         <offset x="-0.203278" y="0.203278"/>
-        <pos x="7.59409" y="-3.79672"/>
+        <pos x="18.6656" y="-3.79672"/>
         <tick>110640</tick>
         <frame>0</frame>
         <html-data>
@@ -6839,7 +6835,7 @@ p, li { white-space: pre-wrap; }
         <style>12</style>
         <subtype>p</subtype>
         <offset x="-0.446439" y="-0.681361"/>
-        <pos x="22.0113" y="4.34245"/>
+        <pos x="26.3308" y="4.34245"/>
         <tick>114000</tick>
         </Dynamic>
       <Tuplet id="27">
@@ -6919,10 +6915,6 @@ p, li { white-space: pre-wrap; }
         </Chord>
       </Measure>
     <Measure number="80">
-      <Text>
-        <style>17</style>
-        <subtype>MeasureNumber</subtype>
-        </Text>
       <Chord>
         <durationType>half</durationType>
         <Articulation>
